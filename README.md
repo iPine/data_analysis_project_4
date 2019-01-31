@@ -6,7 +6,8 @@
 
 ### 项目版本说明
 - 原始版本：analyze-ab-test-results.html
-- 1审后的修订版本：analyze-ab-test-results-revise.html
+- 1审后的修订版本：analyze-ab-test-results-revise-1.html
+- 2审后的修订版本：analyze-ab-test-results-revise-2.html
 
 #### 项目代码
-- analyze-ab-test-results-revise.ipynb
+- analyze-ab-test-results-revise-2.ipynb
